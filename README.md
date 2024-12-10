@@ -19,4 +19,4 @@ In order for the system’s user to activate the software, all they need to do i
 
 **Team Members:**
 
-Our team members include: Jack Valcourt, Eli Stearns, Gianmarcos Serrano, Lamar Jackson, Emmanuel Oparaocha, and Ghazi Alotaibi.
+Our team members include: Jack Valcourt, Eli Stearns, Gianmarcos Serrano, Lamar Jackson, Emmanuel Oparaocha.
