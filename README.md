@@ -17,9 +17,6 @@ In order to install this software onto a desired system to scan for files, the u
 In order for the system’s user to activate the software, all they need to do is run the script and the program will autonomously scan the files for malware and analyze the data it receives. Once active, the program will automatically parse the logs to check the user’s cpu usage, then, if the cpu usage on their device is over 2%, the program will alert the user that there may potentially be malicious activity in their system.
 
 
-**Recommendations:**
-There can be many improvements made to the system to ensure that it runs efficiently and to ensure that the script is correctly detecting suspicious files. For more security, training the system to detect the patterns of malware and comparing it to the scanned files can help with more accurately identifying harmful files. Tools to help monitor traffic flow such as NTA can also help with identifying suspiciously large file sizes. DNS filtering can be used to ensure that the domains that are commonly used by malware is blocked.
-
 **Team Members:**
 
 Our team members include: Jack Valcourt, Eli Stearns, Gianmarcos Serrano, Lamar Jackson, Emmanuel Oparaocha, and Ghazi Alotaibi.
