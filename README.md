@@ -10,12 +10,12 @@ providing an added layer of protection against cybersecurity risks and helping m
 
 
 **Installation:**
+In order to install this software onto a desired system to scan for files, the user must download the script onto their device, the user would then need to give the script access to their system/device in order to grant it permission to scan the files on that system. Next, the user would need to input their email address into the script so the software knows who to send an alert to given a malicous file has been detected. Once the user has all of these steps completed, the software should autonomously scan the user’s system for malicous files and, in the case of a malicous file, the user’s provided email will be notified of such.
 
-...
 
 **Usage:**
+In order for the system’s user to activate the software, all they need to do is run the script and the program will autonomously scan the files for malware and analyze the data it receives. Once active, the program will automatically parse the logs to check the user’s cpu usage, then, if the cpu usage on their device is over 2%, the program will alert the user that there may potentially be malicious activity in their system.
 
-...
 
 **Team Members:**
 
